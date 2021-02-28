@@ -7,5 +7,7 @@ int main()
     printf("a=%d",a);
     printf("\nb=%d",b);
     printf("\nc=%d",c);
+
+    
     
 }
